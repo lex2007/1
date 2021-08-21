@@ -7,7 +7,7 @@ BREAK_FLAG = False
 
 
 
-t = Turtle()
+
 yo = turtle.Screen()
 yo.title('yama')
 yo.setup(650, 650, 650, 650)
